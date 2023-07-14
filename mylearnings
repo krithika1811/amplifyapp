@@ -1,0 +1,14 @@
+Reference URL - https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
+
+AWS Amplify: (https://aws.amazon.com/amplify/?nc=sn&loc=0)
+
+1. AWS Amplify is a complete solution that lets frontend web and mobile developers easily build, ship, and host full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as use cases evolve. No cloud expertise needed.
+2. Create a cross-platform backend for your iOS, Android, Flutter, web, or React Native app with real-time and offline functionality in just a few clicks.
+3. Visually build a pixel-perfect UI and connect your frontend UI to a cloud backend in clicks. AWS Amplify saves you from writing thousands of lines of code.
+4. Easily deploy your web app or website to the fast, secure, and reliable AWS content delivery network (CDN), with hundreds of points of presence globally.
+
+Project Accomplishment:
+
+1. Hosting: Build and host a React application on the AWS global content delivery network (CDN)
+2. Authentication: Add auth to your app to activate sign-in and sign-out
+3. Database and storage: Add a GraphQL API, database, and storage solution
